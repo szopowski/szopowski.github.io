@@ -1,0 +1,12 @@
+{
+    "[markdown]": {
+    },
+    "frontMatter.framework.id": "other",
+    "frontMatter.content.publicFolder": "",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "ISSUE_TEMPLAT",
+            "path": "[[workspace]]/.github/ISSUE_TEMPLATE"
+        }
+    ]
+}
