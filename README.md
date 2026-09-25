@@ -33,19 +33,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li>
-      <a href="#built-with">Built With</a>
-      <>
-        <li><a href="#html-badge">HTML</a></li>
-        <li><a href="#css-badge">CSS</a></li>
-        <li><a href="#js-badge">JavaScript</a></li>
-        <li><a href="#tailwind-badge">Tailwind CSS</a></li>
-      
 <!-- ABOUT THE PROJECT -->
 
 # 📋 About The Project <a name="about-the-project"></a>
