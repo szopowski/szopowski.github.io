@@ -39,5 +39,3 @@
 
 This project is a web-based portfolio that beautifully showcases the photography work of Patryk Grabski. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript by Joao Franco. Added and modified code by me.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
